@@ -48923,6 +48923,13 @@
     "repo": "clip2md/clip2md-plugin"
   },
   {
+    "id": "clipmd-desktop-tools",
+    "name": "Clip2MD Desktop Tools",
+    "author": "clip2md",
+    "description": "补充网页正文、视频、字幕、图片与评论的本地素材到 Obsidian 知识库. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "clip2md/clip2md-desktop-tools"
+  },
+  {
     "id": "arcade",
     "name": "Arcade",
     "author": "Parva Shah",
